@@ -1,9 +1,9 @@
-,Lengh,At Symbol,Domain,Count,ID 
-AGonzalez@aarp.org,18,10,aarp.org,0,29
-craphael@aarp.org,17,9,aarp.org,0,30
-jarogers@aarp.org,17,9,aarp.org,0,31
-jenglish@aarp.org,17,9,aarp.org,0,32
-jjenkins@aarp.org,17,9,aarp.org,0,33
-JLozada@aarp.org,16,8,aarp.org,0,34
-nleamond@aarp.org,17,9,aarp.org,0,35
-sreinhard@aarp.org,18,10,aarp.org,0,36
+Name,Domain,Email,ID 
+AGonzalez,aarp.org,AGonzalez@aarp.org,26
+craphael,aarp.org,craphael@aarp.org,27
+jarogers,aarp.org,jarogers@aarp.org,28
+jenglish,aarp.org,jenglish@aarp.org,29
+jjenkins,aarp.org,jjenkins@aarp.org,30
+JLozada,aarp.org,JLozada@aarp.org,31
+nleamond,aarp.org,nleamond@aarp.org,32
+sreinhard,aarp.org,sreinhard@aarp.org,33

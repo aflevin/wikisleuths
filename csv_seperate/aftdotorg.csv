@@ -1,9 +1,8 @@
-,Lengh,At Symbol,Domain,Count,ID
-ehadley@aft.org,15,8,aft.org,0,102
-jost@aft.org,12,5,aft.org,0,103
-mmohan@aft.org,14,7,aft.org,0,104
-rweingar@aft.org,16,9,aft.org,0,105
-rweingarten@aft.org,19,12,aft.org,0,106
-TFlourno@aft.org,16,9,aft.org,0,107
-tflourno@aft.org,16,9,aft.org,0,108
-tloftin@aft.org,15,8,aft.org,0,109
+Name,Domain,Email,ID
+ehadley,aft.org,ehadley@aft.org,90
+jost,aft.org,jost@aft.org,91
+mmohan,aft.org,mmohan@aft.org,92
+rweingar,aft.org,rweingar@aft.org,93
+rweingarten,aft.org,rweingarten@aft.org,94
+TFlourno,aft.org,TFlourno@aft.org,95
+tloftin,aft.org,tloftin@aft.org,96

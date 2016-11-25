@@ -1,13 +1,13 @@
-,Lengh,At Symbol,Domain,Count,ID
-acs@advmail.georgetown.edu,26,4,advmail.georgetown.edu,0,65
-advancementevents@advmail.georgetown.edu,40,18,advmail.georgetown.edu,0,66
-alumnlaw@advmail.georgetown.edu,31,9,advmail.georgetown.edu,0,67
-ClubofDC@advmail.georgetown.edu,31,9,advmail.georgetown.edu,0,68
-giftplanning@advmail.georgetown.edu,35,13,advmail.georgetown.edu,0,69
-giving@advmail.georgetown.edu,29,7,advmail.georgetown.edu,0,70
-guaanominations@advmail.georgetown.edu,38,16,advmail.georgetown.edu,0,71
-guevents@advmail.georgetown.edu,31,9,advmail.georgetown.edu,0,72
-libraryassociates@advmail.georgetown.edu,40,18,advmail.georgetown.edu,0,73
-mmevents@advmail.georgetown.edu,31,9,advmail.georgetown.edu,0,74
-newsinbrief@advmail.georgetown.edu,34,12,advmail.georgetown.edu,0,75
-presidentsoffice@advmail.georgetown.edu,39,17,advmail.georgetown.edu,0,76
+Name,Domain,Email,ID
+acs,advmail.georgetown.edu,acs@advmail.georgetown.edu,60
+advancementevents,advmail.georgetown.edu,advancementevents@advmail.georgetown.edu,61
+alumnlaw,advmail.georgetown.edu,alumnlaw@advmail.georgetown.edu,62
+ClubofDC,advmail.georgetown.edu,ClubofDC@advmail.georgetown.edu,63
+giftplanning,advmail.georgetown.edu,giftplanning@advmail.georgetown.edu,64
+giving,advmail.georgetown.edu,giving@advmail.georgetown.edu,65
+guaanominations,advmail.georgetown.edu,guaanominations@advmail.georgetown.edu,66
+guevents,advmail.georgetown.edu,guevents@advmail.georgetown.edu,67
+libraryassociates,advmail.georgetown.edu,libraryassociates@advmail.georgetown.edu,68
+mmevents,advmail.georgetown.edu,mmevents@advmail.georgetown.edu,69
+newsinbrief,advmail.georgetown.edu,newsinbrief@advmail.georgetown.edu,70
+presidentsoffice,advmail.georgetown.edu,presidentsoffice@advmail.georgetown.edu,71

@@ -1,9 +1,8 @@
-,Lengh,At Symbol,Domain,Count
-Anne.Hall@APORTER.com,21,10,APORTER.com,0
-Anne.Hall@aporter.com,21,10,aporter.com,0
-Jeffrey.Smith@aporter.com,25,14,aporter.com,0
-jeffrey_smith@aporter.com,25,14,aporter.com,0
-John.Barker@aporter.com,23,12,aporter.com,0
-nadia.nowytski@aporter.com,26,15,aporter.com,0
-Robert.Weiner@aporter.com,25,14,aporter.com,0
-Robert_Weiner@aporter.com,25,14,aporter.com,0
+Name,Domain,Email,,ID
+Anne.Hall,APORTER.com,Anne.Hall@APORTER.com,,729
+Anne.Hall,aporter.com,Anne.Hall@aporter.com,,730
+Jeffrey.Smith,aporter.com,Jeffrey.Smith@aporter.com,,731
+jeffrey_smith,aporter.com,jeffrey_smith@aporter.com,,732
+John.Barker,aporter.com,John.Barker@aporter.com,,733
+nadia.nowytski,aporter.com,nadia.nowytski@aporter.com,,734
+Robert.Weiner,aporter.com,Robert.Weiner@aporter.com,,735

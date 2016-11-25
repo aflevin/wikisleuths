@@ -1,9 +1,7 @@
-,Lengh,At Symbol,Domain,Count,ID
-jeff@algpolling.com,19,5,algpolling.com,0,182
-john@algpolling.com,19,5,algpolling.com,0,183
-John@algpolling.com,19,5,algpolling.com,0,184
-matt@algpolling.com,19,5,algpolling.com,0,185
-Mona@algpolling.com,19,5,algpolling.com,0,186
-mona@algpolling.com,19,5,algpolling.com,0,187
-newsletter@algpolling.com,25,11,algpolling.com,0,188
-Pia@algpolling.com,18,4,algpolling.com,0,189
+Name,Domain,Email,ID
+jeff,algpolling.com,jeff@algpolling.com,142
+john,algpolling.com,john@algpolling.com,143
+matt,algpolling.com,John@algpolling.com,144
+Mona,algpolling.com,matt@algpolling.com,145
+newsletter,algpolling.com,Mona@algpolling.com,146
+Pia,algpolling.com,mona@algpolling.com,147
