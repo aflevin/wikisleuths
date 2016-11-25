@@ -1,13 +1,9 @@
-,Lengh,At Symbol,Domain,Count
-fromanm@citi.com,16,8,citi.com,0
-andy1.taylor@citi.com,21,13,citi.com,0
-fromanm@citi.com,16,8,citi.com,0
-guillens@citi.com,17,9,citi.com,0
-jack.lew@citi.com,17,9,citi.com,0
-josh.d.sexton@citi.com,22,14,citi.com,0
-onekm@citi.com,14,6,citi.com,0
-pruntym@citi.com,16,8,citi.com,0
-rubinr@citi.com,15,7,citi.com,0
-fromanm@citi.com ,17,8,citi.com ,0
-guillens@citi.com ,18,9,citi.com ,0
-fromanm@citi.com ,17,8,citi.com ,0
+Name,Domain,Email,ID
+andy1.taylor,citi.com,andy1.taylor@citi.com,852
+fromanm,citi.com ,fromanm@citi.com ,853
+guillens,citi.com ,guillens@citi.com ,854
+jack.lew,citi.com,jack.lew@citi.com,855
+josh.d.sexton,citi.com,josh.d.sexton@citi.com,856
+onekm,citi.com,onekm@citi.com,857
+pruntym,citi.com,pruntym@citi.com,858
+rubinr,citi.com,rubinr@citi.com,859

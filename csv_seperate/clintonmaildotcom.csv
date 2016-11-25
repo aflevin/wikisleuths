@@ -1,9 +1,5 @@
-,Lengh,At Symbol,Domain,Count
-dreynolds@clintonemail.com,26,10,clintonemail.com,0
-hdr22@clintonemail.com,22,6,clintonemail.com,0
-hrod17@clintonemail.com,23,7,clintonemail.com,0
-huma@clintonemail.com,21,5,clintonemail.com,0
-Huma@clintonemail.com ,22,5,clintonemail.com ,0
-hrod17@clintonemail.com ,24,7,clintonemail.com ,0
-dreynolds@clintonemail.com ,27,10,clintonemail.com ,0
-huma@clintonemail.com ,22,5,clintonemail.com ,0
+Name,Domain,Email,ID
+dreynolds,clintonemail.com,dreynolds@clintonemail.com,971
+hdr22,clintonemail.com,hdr22@clintonemail.com,972
+hrod17,clintonemail.com,hrod17@clintonemail.com,973
+Huma,clintonemail.com ,Huma@clintonemail.com ,974
