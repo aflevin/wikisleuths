@@ -1,7 +1,7 @@
-,Lengh,At Symbol,Domain,Count
-communications@dcbar.org,24,15,dcbar.org,0
-donations@dcbar.org,19,10,dcbar.org,0
-ebrief@dcbar.org,16,7,dcbar.org,0
-noreply@dcbar.org,17,8,dcbar.org,0
-postmaster@dcbar.org,20,11,dcbar.org,0
-verifydues@dcbar.org,20,11,dcbar.org,0
+Name,Domain,Email,ID
+communications,dcbar.org,communications@dcbar.org,1119
+donations,dcbar.org,donations@dcbar.org,1120
+ebrief,dcbar.org,ebrief@dcbar.org,1121
+noreply,dcbar.org,noreply@dcbar.org,1122
+postmaster,dcbar.org,postmaster@dcbar.org,1123
+verifydues,dcbar.org,verifydues@dcbar.org,1124

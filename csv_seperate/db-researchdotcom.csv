@@ -1,5 +1,3 @@
-,Lengh,At Symbol,Domain,Count
-David@db-research.com,21,6,db-research.com,0
-david@db-research.com,21,6,db-research.com,0
-Will@db-research.com,20,5,db-research.com,0
-will@db-research.com,20,5,db-research.com,0
+Name,Domain,Email,ID
+David,db-research.com,David@db-research.com,1117
+Will,db-research.com,Will@db-research.com,1118

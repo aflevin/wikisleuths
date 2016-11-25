@@ -1,6 +1,6 @@
-,Lengh,At Symbol,Domain,Count
-dccc@dccc.org,13,5,dccc.org,0
-Ferguson@dccc.org,17,9,dccc.org,0
-Mintz@DCCC.org,14,6,DCCC.org,0
-Mook@dccc.org,13,5,dccc.org,0
-Schultz@DCCC.org,16,8,DCCC.org,0
+Name,Domain,Email,ID
+dccc,dccc.org,dccc@dccc.org,1125
+Ferguson,dccc.org,Ferguson@dccc.org,1126
+Mintz,DCCC.org,Mintz@DCCC.org,1127
+Mook,dccc.org,Mook@dccc.org,1128
+Schultz,DCCC.org,Schultz@DCCC.org,1129
