@@ -1,7 +1,6 @@
-,Lengh,At Symbol,Domain,Count
-karinsris@uber.com,18,10,uber.com,0
-plouffe@uber.com,16,8,uber.com,0
-receipts@uber.com,17,9,uber.com,0
-support@uber.com,16,8,uber.com,0
-supportdc@uber.com,18,10,uber.com,0
-supportDC@uber.com,18,10,uber.com,0
+Name,Domain,Email,ID
+karinsris,uber.com,karinsris@uber.com,6523
+plouffe,uber.com,plouffe@uber.com,6524
+receipts,uber.com,receipts@uber.com,6525
+support,uber.com,support@uber.com,6526
+supportdc,uber.com,supportdc@uber.com,6527

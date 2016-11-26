@@ -1,5 +1,3 @@
-,Lengh,At Symbol,Domain,Count
-glenn.hutchins@silverlake.com,29,15,silverlake.com,0
-Glenn.Hutchins@SilverLake.com,29,15,SilverLake.com,0
-hutchinsoffice@silverlake.com,29,15,silverlake.com,0
-HutchinsOffice@SilverLake.com,29,15,SilverLake.com,0
+Name,Domain,Email,ID
+glenn.hutchins,silverlake.com,glenn.hutchins@silverlake.com,6379
+hutchinsoffice,silverlake.com,hutchinsoffice@silverlake.com,6380
