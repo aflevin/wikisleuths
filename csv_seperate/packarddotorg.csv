@@ -1,11 +1,8 @@
-,Lengh,At Symbol,Domain,Count
-clarson@packard.org,19,8,packard.org,0
-CLarson@packard.org,19,8,packard.org,0
-cwinter@packard.org,19,8,packard.org,0
-CWinter@packard.org,19,8,packard.org,0
-hlilly@packard.org,18,7,packard.org,0
-WReid@packard.org,17,6,packard.org,0
-CLarson@packard.org ,20,8,packard.org ,0
-clarson@packard.org ,20,8,packard.org ,0
-cwinter@packard.org ,20,8,packard.org ,0
-hlilly@packard.org ,19,7,packard.org ,0
+Name,Domain,Email,ID
+clarson,packard.org,clarson@packard.org,5868
+cwinter,packard.org,cwinter@packard.org,5869
+hlilly,packard.org,hlilly@packard.org,5870
+WReid,packard.org,WReid@packard.org,5871
+CLarson,packard.org ,CLarson@packard.org ,5872
+cwinter,packard.org ,cwinter@packard.org ,5873
+hlilly,packard.org ,hlilly@packard.org ,5874
